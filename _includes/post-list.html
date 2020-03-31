@@ -18,6 +18,8 @@
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
+    {% if post.main-img %}
+    <img src="{{ post.main-img }}" class="catalogue-img"/> {% endif %}
     {% if post.tag %}
     <p style="color: #25559c; margin-bottom: 0.1rem; font-weight: bold;">{{ post.tag }}</p> {% endif %}
     <h2 class="archive__item-title" itemprop="headline" style="margin-top: 0.1rem;">
@@ -32,6 +34,6 @@
     {% endif %} 
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %} -->
     {% if post.subtitle %}
-      <p class="subtitle" style="color: #6f777d; margin-top: 0.1em;"> {{post.subtitle}}</p> {% endif %}
+      <p class="subtitle" style="color: #6f777d; margin-top: 0.1em; margin-bottom: 4em;"> {{post.subtitle}}</p> {% endif %}
   </article>
 </div>
