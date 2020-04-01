@@ -9,7 +9,7 @@ permalink: /work/
 ---
 
 
-{% assign posts = site.categories.work | sort:"order" | reverse %}
+{% assign posts = site.categories.work | sort:"order" | reversed %}
 
 {% for post in posts %}
   {% include post-list.html %}

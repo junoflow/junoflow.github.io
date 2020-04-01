@@ -6,7 +6,7 @@ tag:
     - Contents Planning/Development
 categories: work
 main-img : "../../assets/image/image01.jpg"
-order: 1
+order: 3
 ---
 
 ![image](../../assets/image/image01.jpg)

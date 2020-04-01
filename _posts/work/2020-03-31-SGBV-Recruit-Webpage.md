@@ -6,7 +6,7 @@ tag:
     - Programming
 categories: work
 main-img : "../../assets/image/image02.jpg"
-order: 2
+order: 1
 ---
 
 <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/xW8zc4v1R-0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
