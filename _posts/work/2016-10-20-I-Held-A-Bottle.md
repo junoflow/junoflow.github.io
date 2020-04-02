@@ -3,7 +3,7 @@ title: "I Held A Bottle : 나는 병들었다 展"
 subtitle: "가상 전시회 포스터 디자인"
 layout: single
 tag: 
-    - Contents Planning/Development
+    - Design, Contents Planning/Development
 categories: work
 main-img : "../../assets/image/image01.jpg"
 order: 1
