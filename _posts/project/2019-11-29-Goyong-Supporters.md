@@ -55,8 +55,7 @@ __오프라인__ 서강대학교 청년고용정책 캐치마인드 퀴즈
 __제작__  현준호  
 
 <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/Pl3TBLBvKJo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-  
-
+<br>
 7조 알파고 8월 영상  
 상호평가 최우수 선정작
 
@@ -65,8 +64,7 @@ __촬영__  현준호, 이정민
 __편집__  현준호  
 
 <iframe width="100%" height="56.25%" src="https://www.youtube.com/embed/3GN5JV3RPhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-  
-
+<br>
 7조 알파고 11월 영상
 
 __기획__  현준호, 이정민, 정은형, 정윤성, 박진경  
