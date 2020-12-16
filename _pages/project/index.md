@@ -3,7 +3,7 @@ layout: archive
 main: true
 title: Project
 subtitle: 지금까지 수행한 대외활동과 프로젝트
-author_profile: true
+author_profile: false
 permalink: /project/
 
 ---

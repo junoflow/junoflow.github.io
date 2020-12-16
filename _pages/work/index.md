@@ -3,7 +3,7 @@ layout: archive
 main: true
 title: Work
 subtitle: 지금까지 작업한 작업물들
-author_profile: true
+author_profile: false
 permalink: /work/
 
 ---
