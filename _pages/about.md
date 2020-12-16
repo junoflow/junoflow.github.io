@@ -9,7 +9,7 @@ main: true
 ---
 안녕하세요. 현준호입니다. 기회를 알아보고 성과로 바꾸어냅니다.
 
-<table style="font-size: 20px;">
+<table>
     <tr>
     <td style="width: 50%; border-bottom: 0; padding-right: 5%;">
 <img src="../../assets/image/profile.png" style="box-sizing: initial; width: 100%;  height:auto;">
@@ -58,7 +58,7 @@ main: true
 ### (주)제이에스인터내셔널
 
 사회취약계층을 위한 복지용구를 개발하는 예비 사회적 기업
-<table style="font-size: 20px;">
+<table>
     <tr>
     <td style="width: 35%; border-bottom: 0; vertical-align: top;">
     <div class="pull-left" markdown="1">
